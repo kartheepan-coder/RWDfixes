@@ -20,8 +20,8 @@
 > Popular Course Component.
 - [ ] Overlapping Card Components.
 - [ ] Slider navigation previous button collapsed with the popular course card component.
-- [ ]"Coming Soon" text being overflown due to the lengthy course title.
-
+- [ ] "Coming Soon" text being overflown due to the lengthy course title.
+ 
 > Get Notified Component.  
     
 - [ ] Improper position of "Notify Me" Button.
