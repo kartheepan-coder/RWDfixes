@@ -7,7 +7,7 @@
 
 > Popular course Component.
     
-  - Unable to click the Next button in the slider.
+- [X] Unable to click the Next button in the slider.
 
 
 #### Tablet Breakpoints.
@@ -15,19 +15,19 @@
 > Nav bar.
 
 -  [X] NavLogo collapsed with other parts of the nav bar.
--  [ ] Improper alignment of SignIn component. 
+-  [X] Improper alignment of SignIn component. 
    
 > Popular Course Component.
-- [ ] Overlapping Card Components.
-- [ ] Slider navigation previous button collapsed with the popular course card component.
-- [ ] "Coming Soon" text being overflown due to the lengthy course title.
+- [X] Overlapping Card Components.
+- [X] Slider navigation previous button collapsed with the popular course card component.
+- [X] "Coming Soon" text being overflown due to the lengthy course title.
  
 > Get Notified Component.  
     
-- [ ] Improper position of "Notify Me" Button.
-- [ ] Escaping characters in the "Get notified" container. 
-- [ ] Crossing characters in the "Drop Your Mail" Text.
-- [ ] Part of the "Post Box" Svg hidden behind due to the overflow.  
+- [X] Improper position of "Notify Me" Button.
+- [X] Escaping characters in the "Get notified" container. 
+- [X] Crossing characters in the "Drop Your Mail" Text.
+- [X] Part of the "Post Box" Svg hidden behind due to the background-position.  
 
    
    
