@@ -7,7 +7,8 @@
 
 > Popular course Component.
     
-- [X] Unable to click the Next button in the slider.
+- [X] Slick Navigation Next button was hidden behind the scroll-Bar.
+- [X] Overflow in x-axis due to the above button.
 
 
 #### Tablet Breakpoints.
