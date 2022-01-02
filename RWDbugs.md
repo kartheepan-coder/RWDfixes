@@ -41,7 +41,7 @@
 
 #### Tablet Breakpoints.
 
-- [ ] "Coming Soon" text being overflown due to the lengthy course title.
+- [X] "Coming Soon" text being overflown due to the lengthy course title.
 
 
 
@@ -65,8 +65,12 @@
 
 #### Tablet Breakpoint.
 
-- [ ] Contact Details hidden behind the form.
+- [X] Contact Details hidden behind the form.
 - [ ] Svg is smaller compared to the text content.
+
+## User Profile.
+
+#### user info
 
 
 
